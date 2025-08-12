@@ -99,12 +99,7 @@ Identificar **padrões comportamentais** que levam à evasão de clientes e **re
 
 ---
 
-## **📄 Licença**  
-Este projeto está sob licença MIT. Consulte [LICENSE](LICENSE) para mais detalhes.  
-
---- 
-
 **✉️ Contato**  
-[Seu Nome] | [LinkedIn] | [Email]  
+[JJCR] | [www.linkedin.com/in/josé-joão-candido-ribeiro] | [joaojcr@gmail.com]  
 
-**🔗 Acesso ao Relatório Completo**: [Link para PDF/Notebook]
+
