@@ -89,16 +89,8 @@ Identificar **padrões comportamentais** que levam à evasão de clientes e **re
 ## **👨‍💻 Como Reproduzir a Análise**  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/churn-analysis.git
+   git clone https://github.com/JJCRibeiro/Challenge-Telecom-X-an-lise-de-evas-o-de-clientes---Parte-2
    ```  
-2. Instale as dependências:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Execute os notebooks na ordem numérica.  
-
----
-
 **✉️ Contato**  
 [JJCR] | [www.linkedin.com/in/josé-joão-candido-ribeiro] | [joaojcr@gmail.com]  
 
